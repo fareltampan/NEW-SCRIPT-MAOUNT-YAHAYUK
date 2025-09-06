@@ -1,2 +1,19 @@
-# NEW-SCRIPT-MAOUNT-YAHAYUK
-SEMOGA BERUNTUNG SETIAP MINGGU UPDATE YA      loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/roblox-scripts/refs/heads/main/universal_script_v3.lua"))()
+# Roblox Scripts
+
+Selamat datang di repo **roblox-scripts**! 🎮  
+Repo ini berisi script Roblox yang bisa di-load langsung lewat executor.  
+Semua script dibuat untuk memudahkan eksplorasi game, teleportasi, fly mode, ESP, dan lainnya. 🚀
+
+---
+
+## 🔥 Universal Script V3
+Script universal dengan fitur:
+- ✅ Teleport GUI (pindah ke lokasi cepat)
+- ✅ Speed Hack
+- ✅ Infinite Jump
+- ✅ Fly Toggle (`F` untuk ON/OFF)
+- ✅ Koordinat real-time
+- ✅ ESP Player (lihat nama semua pemain)
+
+### Cara Pakai:
+1. Copy link raw script:
